@@ -7,4 +7,5 @@ build/classes/
 temp/
 transaction.log
 .tern-project
+pom.xml.new
 
