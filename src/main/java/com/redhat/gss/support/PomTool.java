@@ -45,6 +45,7 @@ public class PomTool {
         kieProjects.add("drools-wb-scorecard-xls-editor-client");
         kieProjects.add("drools-wb-test-scenario-editor-client");
         kieProjects.add("drools-wb-workitems-editor-client");
+        
         kieProjects.add("kie-wb-common-data-modeller-client");
         kieProjects.add("kie-wb-common-default-editor-client");
         kieProjects.add("kie-wb-common-java-editor-client");
