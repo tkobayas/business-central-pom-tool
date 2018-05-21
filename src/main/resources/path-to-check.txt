@@ -31,3 +31,5 @@ kie-wb-distributions/kie-drools-wb/kie-drools-wb-distribution-wars/
 kie-wb-distributions/kie-drools-wb/kie-drools-wb-home-page-product/
 kie-wb-distributions/kie-drools-wb/kie-drools-wb-webapp/
 kie-wb-distributions/kie-drools-wb/
+
+optaplanner-wb/optaplanner-wb-screens/optaplanner-wb-solver-editor/optaplanner-wb-solver-editor-client/

@@ -58,6 +58,8 @@ public class PomFullChecker {
 
         kieProjects.add("kie-wb-common-services-backend");
 
+        kieProjects.add("optaplanner-wb-solver-editor-client");
+
         uberfireProjects.add("uberfire-commons-editor-client");
         uberfireProjects.add("uberfire-runtime-plugins-client");
         uberfireProjects.add("uberfire-widgets-commons");
